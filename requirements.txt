@@ -1,0 +1,5 @@
+# Pinned so the submission file regenerates byte for byte. Tested on Python 3.12.
+# Python 3.10-3.13 are supported by these versions.
+# The output was also verified identical under numpy 2.5.4 / pandas 3.0.6.
+numpy==2.2.6
+pandas==2.2.3
